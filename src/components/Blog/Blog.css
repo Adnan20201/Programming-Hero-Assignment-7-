@@ -1,0 +1,8 @@
+.sticky {
+    position: fixed;
+    top: 10px;
+    z-index: 567890;
+}
+Card.Img{
+    border-radius: 10px !important;
+}

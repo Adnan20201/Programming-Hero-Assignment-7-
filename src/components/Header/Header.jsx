@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css';
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 import Image from 'react-bootstrap/Image'
@@ -7,7 +8,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 const Header = () => {
     return (
-        <Navbar bg="dark" color='white' expand="lg"  style={{ position:static,top:0}}>
+        <Navbar bg="dark" color='white' expand="lg"  style={{ position:'sticky',top:0,zIndex:22222}}>
             <Container >
                 <Navbar.Brand href="#" style={{ color: 'white' }}>Knowledge Cafe</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
