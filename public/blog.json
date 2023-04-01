@@ -1,0 +1,38 @@
+[
+    {
+        "id": "6427f09bd3708409cf5907ec",
+        "blog_cover_image": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=900&t=st=1680340015~exp=1680340615~hmac=bd4fbb6d00882c1c37b703a80d0a42bb02a8d092834da96d3261206787da23e0",
+        "author_image":  "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=900&t=st=1680340180~exp=1680340780~hmac=d05dee0dd4a2a710267305e07fac660ac465b942908be578a1c37c1199117624",
+        "author_name": "Houqe" ,
+        "publish_data": "Mar 13" ,
+        "blog_title": "How to get your first job as a self-taught programmer",
+        "read_time": 10
+    },
+    {
+        "id": "6427f0bb10dd571f5023aeb6",
+        "blog_cover_image": "https://img.freepik.com/free-photo/closeup-programer-hands-typing-machine-learning-code-laptop-keyboard-front-computer-screens-with-programming-interface-system-engineer-writing-algorithm-online-cloud-computing_482257-41853.jpg?w=1060&t=st=1680340052~exp=1680340652~hmac=bd6c836a9fe74f9a26cb22539c4176ef3238a1ddf4148a2ddd7aade02697c3f8",
+        "author_image": "https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?w=900&t=st=1680340198~exp=1680340798~hmac=38e486e82f756e83756943058f2b405471fdaf8afb8066c64fe3ea6732d5cd8d",
+        "author_name": "Saikab",
+        "publish_data": "Mar 13" ,
+        "blog_title": "How to get your first job as a self-taught programmer" ,
+        "read_time": 13
+    },
+    {
+        "id": "6427f0ec606e535680924dde",
+        "blog_cover_image":"https://img.freepik.com/free-photo/male-system-hacker-coding-security-program-pc-software-programming-firewall-data-encryption-server-using-computer-code-application-script-display_482257-46797.jpg?w=1060&t=st=1680340084~exp=1680340684~hmac=6af79442bd80d6cb13ac6c6ca9b3fbade5ca5adaa3e0f441463821552e748df4" ,
+        "author_image": "https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?w=900&t=st=1680340198~exp=1680340798~hmac=38e486e82f756e83756943058f2b405471fdaf8afb8066c64fe3ea6732d5cd8d",
+        "author_name": "Adnan",
+        "publish_data": "Mar 13",
+        "blog_title": "How to get your first job as a self-taught programmer",
+        "read_time": 15
+    },
+    {
+        "id": "6427f10fff32f844878f0734",
+        "blog_cover_image": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=900&t=st=1680340115~exp=1680340715~hmac=ff73e403d4c5a4238388119d4096bbbaf87a9d0680f2a327c5f69a09f58ca711",
+        "author_image": "https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?w=900&t=st=1680340198~exp=1680340798~hmac=38e486e82f756e83756943058f2b405471fdaf8afb8066c64fe3ea6732d5cd8d",
+        "author_name":"Afiful",
+        "publish_data": "Mar 13",
+        "blog_title": "How to get your first job as a self-taught programmer" ,
+        "read_time":16
+    }
+]
