@@ -2,6 +2,7 @@ import './App.css'
 import Header from './components/Header/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Blog from './components/Blog/Blog';
+import Quotation from './components/Quotation/Quotation';
 
 function App() {
 
@@ -12,6 +13,9 @@ function App() {
 
       {/* this is Blog Section */}
       <Blog></Blog>
+
+      {/* this is Quotation section  */}
+      <Quotation></Quotation>
     </div>
   )
 }

@@ -20,8 +20,9 @@ const Header = () => {
                     </Nav>
                     <Nav >
                             <Nav.Link href="#action1" style={{color:'white'}}>Home</Nav.Link>
-                            <Nav.Link href="#action2" style={{color:'white'}}>Link</Nav.Link>
-                            <Nav.Link href="#" disabled style={{color:'white', paddingRight:'20px'}}>Link</Nav.Link>
+                            <Nav.Link href="#action2" style={{color:'white'}}>About</Nav.Link>
+                            <Nav.Link href="#" disabled style={{color:'white', paddingRight:'20px'}}>Blog</Nav.Link>
+                            <Nav.Link href="#action2" style={{color:'white'}}>Contact</Nav.Link>
                         </Nav>
 
                     <Navbar.Brand >
